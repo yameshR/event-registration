@@ -38,5 +38,6 @@ Figma
 
 
 ## Result:
+Hence the UX design for the Event Registration webpage is done.
 
 
