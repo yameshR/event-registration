@@ -28,12 +28,15 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN:
-![em](em.png)
+Figma
 
 ## PROGRAM :
 
+
 ## OUTPUT:
+![em](em.png)
 
 
 ## Result:
+
 
